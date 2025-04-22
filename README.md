@@ -8,9 +8,15 @@ Using Python and data visualization libraries, the notebook explores data distri
 
 Zomato-Data-Analysis/
 │
-├── Zomato Data Analysis.ipynb     # Main analysis notebook
-├── README.md                      # Project documentation
-└── dataset/                       # (Zomata-dataset.csv)
+
+├── Zomato Data Analysis.ipynb    
+# Main analysis notebook
+
+├── README.md                      
+# Project documentation
+
+└── dataset/                      
+# (Zomata-dataset.csv)
 
 📊 Key Highlights
 
