@@ -16,13 +16,20 @@ Zomato-Data-Analysis/
 📊 Key Highlights
 
 Data cleaning and preprocessing
+
 Exploratory Data Analysis (EDA)
+
 Visualizations of cuisine types, restaurant ratings, and city-wise distribution
+
 Insights on delivery vs. dine-in trends
+
 
 🛠️ Technologies Used
 
 Python
+
 Pandas
+
 Matplotlib
+
 Seaborn
